@@ -2,7 +2,7 @@
 ==============================================================
 
 <p align="center">
-  <img src="image.png" alt="Alt text" width="500" height="300">
+  <img src="images/image.png" alt="Alt text" width="500" height="300">
 </p>
 
 This repository contains a machine learning project focused on analyzing the Dorothea dataset, which is instrumental in the field of drug discovery. The goal is to classify chemical compounds as active or inactive based on their structural attributes using advanced machine learning techniques. This dataset is a benchmark in the NIPS 2003 feature selection challenge, crucial for advancements in drug discovery.
